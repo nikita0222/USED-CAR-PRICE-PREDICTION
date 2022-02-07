@@ -9,17 +9,15 @@ Dataset:- bmw.csv
 
 Documents attached in this folder:
 
-Input data file
-jupyter notebook
-Project report
-Power point slide on how we presented the model results
-IEEE paper
+1. Input data file.     
+2. jupyter notebook.   
+3. Project report.  
+4. Power point slide on how we presented the model results. 
+5. IEEE paper.  
 
 How to run the code?
 
-Step 1. Please download the bmw.csv file in your local system.
-Step 2. Note the file path where you have saved the file.
-Step 3. Mention the path in the while loading the dataset.
-Step 4. Yes, now you are ready to run the code.
-
-
+Step 1. Please download the bmw.csv file in your local system.  
+Step 2. Note the file path where you have saved the file.  
+Step 3. Mention the path in the while loading the dataset.    
+Step 4. Yes, now you are ready to run the code.   
