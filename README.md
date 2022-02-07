@@ -5,3 +5,21 @@ To be able to predict used cars market value can help both buyers and sellers. T
 
 In this Project, we are going to predict the Price of Used Cars using various features like Present_Price, Selling_Price, Kms_Driven, Fuel_Type, Year etc. The data used in this project was downloaded from Kaggle.
 
+Dataset:- bmw.csv
+
+Documents attached in this folder:
+
+Input data file
+jupyter notebook
+Project report
+Power point slide on how we presented the model results
+IEEE paper
+
+How to run the code?
+
+Step 1. Please download the bmw.csv file in your local system.
+Step 2. Note the file path where you have saved the file.
+Step 3. Mention the path in the while loading the dataset.
+Step 4. Yes, now you are ready to run the code.
+
+
